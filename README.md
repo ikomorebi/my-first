@@ -1,6 +1,6 @@
 # my-first
 just another repository
-# 直角三角形已知两条直角边，求斜边
+# 直角三角形已知两条直角边，求斜边  19-9-27
 import math
 
 a = int(input('a = '))
@@ -9,7 +9,7 @@ c = a**2 + b**2
 int = c
 print(math.sqrt(c))
 
-# 两个数的互换
+#  两个数的互换   19-9-29
 a = int(input("请输入一个数 a = "))
 b = int(input("请输入一个数 b = "))
 emp = a
